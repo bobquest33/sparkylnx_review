@@ -65,3 +65,5 @@ The default terminal did the job but this is something I also have complains abo
 ## Final Thoughts
 
 Sparky was a very interesting OS and I had lot of hopes using it, this may be one of the few distributions that I can try for my Acer One laptop but its Debian base is something for me to worry about. Overall this is a good OS which can be a light weight replacement for your Windows XP or Windows 7/10 desktop without impacting performance.
+
+_Download from_: https://sparkylinux.org/
