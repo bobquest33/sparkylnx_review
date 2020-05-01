@@ -8,54 +8,54 @@ In this review I used Sparky 5.10.1 lxqt version which was the first one offerin
 
 ## First Impressions
 
-![](sparky-Feb-23-16-21-53.png)
+![](https://github.com/bobquest33/sparkylnx_review/raw/master/sparky-Feb-23-16-21-53.png)
 
 The boot flash screen was uneventful where I used "Sparky Linux in English" and was greeted with a blue Sparky Linux animated screen which was better that what I expected from the Distro. Though the look and feel was more from Early 2008-10 than anything current. 
 
-![](sparky-Feb-23-16-22-11.png)
+![](https://github.com/bobquest33/sparkylnx_review/raw/master/sparky-Feb-23-16-22-11.png)
 
 The same feel also was reflected when I got to the desktop. The desktop resembled me more of Windows 7 than Windows XP and hence while looking dated I felt right at home. 
 
-![](Sparky-Feb-23-16-25-58.png)
+![](https://github.com/bobquest33/sparkylnx_review/raw/master/Sparky-Feb-23-16-25-58.png)
 
 The Desktop is LXQt based which I have been using for last few months, hence I like it and was comfortable using it. While anyone who does Distro hopping or review may like to approach a Linux OS with a open mind but when you find something that you have been using for a while making direct comparisons and trying to find parallels is expected. 
 
-![](Sparky-Feb-23-16-31-16.png)
+![](https://github.com/bobquest33/sparkylnx_review/raw/master/Sparky-Feb-23-16-31-16.png)
 
 As I have been using Lubuntu, it was natural for me to compare the desktop look and feel of Sparky Linux, and I was happy with the Desktop look and feel of Sparky.
 
 ## Positives
 
-![](Sparky-at-May-01-21-54-18.png)
+![](https://github.com/bobquest33/sparkylnx_review/raw/master/Sparky-at-May-01-21-54-18.png)
 
 Sparky is loaded with Apps that makes it an ideal Daily driver and a great light weight Linux alternative to something like Windows 10 or Windows 7. 
 
-![](Sparky-Feb-23-16-33-56.png)
+![](https://github.com/bobquest33/sparkylnx_review/raw/master/Sparky-Feb-23-16-33-56.png)
 
 Its fully loaded with LibreOffice Apps which based on my experience works good with most of the document formats. One thing to note though is when I have tried running LibreOffice on my 2gb Acer One, I had mixed experiences, I am not sure if its because of Lubuntu or because of the RAM size which is obviously a limitation.
 
-![](Sparky-Feb-23-16-32-07.png)
+![](https://github.com/bobquest33/sparkylnx_review/raw/master/Sparky-Feb-23-16-32-07.png)
 
 VLC, Qmmp and LxImage are good for multimedia and graphics applications and worked fine in the limited Virtual server environment.
 
-![](Sparky-Feb-23-16-33-25.png)
+![](https://github.com/bobquest33/sparkylnx_review/raw/master/Sparky-Feb-23-16-33-25.png)
 
 For me the highlight was its rich set of systems tools for making live CDs, USB formatter, gparted and Timeshift which are really helpful tools for anyone tikerer like me who wants more from a Linux distro and wants to explore more.
 
-![](Sparky-Feb-23-16-40-45.png)
+![](https://github.com/bobquest33/sparkylnx_review/raw/master/Sparky-Feb-23-16-40-45.png)
 
 As its based on Debian, the rich repo of Debian apps are available via Synaptic package manager and one can also use the apt command line package manager to download from Debian package repository.
 
-![](Sparky-Feb-23-16-42-44.png)
+![](https://github.com/bobquest33/sparkylnx_review/raw/master/Sparky-Feb-23-16-42-44.png)
 
 
 ## Negatives
 
-![](Sparky-Feb-23-16-35-28.png)
+![](https://github.com/bobquest33/sparkylnx_review/raw/master/Sparky-Feb-23-16-35-28.png)
 
 For me the let down was the lack of robust programming editor and bland Featurepad was not something I would like to use in the long run. 
 
-![](Sparky-Feb-23-16-40-00.png)
+![](https://github.com/bobquest33/sparkylnx_review/raw/master/Sparky-Feb-23-16-40-00.png)
 
 Another let down was the lack of a good terminal app. 
 
