@@ -4,7 +4,7 @@
 Its been a while since I have done any Linux Distro review, the review of Sparky linux has been long time pending. While this is not the latest version of Sparky linux but given its light weight nature I feel what every I have experienced on Sparky Linux still holds for latest version.
 
 ## Introduction
-In this review I used Sparky 5.10.1 lxqt version which I felt was the one of the few versions offering Lxqt since using Lubuntu. I tested this distro in Virtualbox with 4gb of RAM and booted it with traditional BIOS config though Sparky also support UEFI natively out of the box. And since it also support 32 bit UEFI boot for a X86_64 architecture I am also planning to test it out on my humble Acer One Laptop.
+In this review I used Sparky 5.10.1 lxqt version which was the first one offering Lxqt since I have used Lubuntu. I tested this distro in Virtualbox with 4gb of RAM and booted it with traditional BIOS config though Sparky also support UEFI natively out of the box. And since it also support 32 bit UEFI boot for a X86_64 architecture I am also planning to test it out on my humble Acer One Laptop.
 
 ## First Impressions
 
