@@ -18,11 +18,11 @@ The same feel also was reflected when I got to the desktop. The desktop resemble
 
 ![](Sparky-Feb-23-16-25-58.png)
 
-The Desktop is LXQt based which I have been using for last few months, hence I like it even more and comfortable using it. While anyone who does Distro hopping or review may like to approach a Linux OS with a open mind but when you find something that you have been using for a while making direct comparisons and trying to find parallels is expected. 
+The Desktop is LXQt based which I have been using for last few months, hence I like it and was comfortable using it. While anyone who does Distro hopping or review may like to approach a Linux OS with a open mind but when you find something that you have been using for a while making direct comparisons and trying to find parallels is expected. 
 
 ![](Sparky-Feb-23-16-31-16.png)
 
-As I have been Lubuntu, it was natural for me to compare the desktop look and feel of Sparky Linux, and I was happy with the Desktop look and feel and using it.
+As I have been using Lubuntu, it was natural for me to compare the desktop look and feel of Sparky Linux, and I was happy with the Desktop look and feel of Sparky.
 
 ## Positives
 
@@ -64,4 +64,4 @@ The default terminal did the job but this is something I also have complains abo
 
 ## Final Thoughts
 
-Sparky was a very interesting OS and I had lot of hopes using it, this may be one of the few distributions that I can try for my Acer One laptop but its Debian base is something for me to worry about. Overall this is a good OS which can be a light weight replacement for your Windows XP or Windows 7 desktop without impacting performance.
+Sparky was a very interesting OS and I had lot of hopes using it, this may be one of the few distributions that I can try for my Acer One laptop but its Debian base is something for me to worry about. Overall this is a good OS which can be a light weight replacement for your Windows XP or Windows 7/10 desktop without impacting performance.
