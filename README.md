@@ -14,7 +14,7 @@ The boot flash screen was uneventful where I used "Sparky Linux in English" and 
 
 ![](sparky-Feb-23-16-22-11.png)
 
-The same feel also was reflected when I got to the desktop. The desktop resembled me more of Windows 7 than Windows XP and hence while looking dated me feel at home. 
+The same feel also was reflected when I got to the desktop. The desktop resembled me more of Windows 7 than Windows XP and hence while looking dated I felt right at home. 
 
 ![](Sparky-Feb-23-16-25-58.png)
 
